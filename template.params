@@ -1,0 +1,22 @@
+#Template parameter file
+traceFile=
+outputFile=
+reputationTraceFile=
+nodeNum=
+selfishNodes=
+altruisticNodes=
+maliciousNodes=
+trustedNodes=
+initialReputationValue=
+duration=
+waitConfirmations=
+validationMode=
+weightFunction=
+confirmationThr=
+reputationThr=
+generatedIncWeight=
+generationInterval=
+wifiRange=
+t=
+topologyFile=
+log=
